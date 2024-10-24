@@ -1,0 +1,13 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+chromadb
+langchain_chroma
+streamlit
+langchain_groq
+pandas
+bs4
+langchain_groq
+fastapi
+langserve
